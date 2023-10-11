@@ -1,0 +1,9 @@
+{
+  "name": "menu",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "60a90d32"
+}
